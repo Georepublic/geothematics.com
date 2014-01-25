@@ -1,16 +1,16 @@
 apps:
-  redmine: "http://beta.shirasete.jp"
+  redmine: "http://alpha.geothematics.com"
   google: "#"
-  apple: "https://itunes.apple.com/app/zhirasete.jp/id744954893"
+  apple: "#"
   html5: "#"
 
 social:
-  facebook: "https://www.facebook.com/shirasete.jp"
-  twitter: "https://twitter.com/shirasetejp"
-  google: "https://plus.google.com/+ShiraseteJpn"
+  facebook: "https://www.facebook.com/pages/Geothematics/244983772333625"
+  twitter: "https://twitter.com/geothematics"
+  google: "https://plus.google.com/+GeothematicsCom"
 
 newsletter:
-  apikey: "aH6FaxQ7AeQOKz67F8w0CQ"
+  apikey: "a763FFdrytSONNF31763pJ892Vfg"
   subscribe: "http://news.georepublic.info/subscribe"
   unsubscribe: "http://news.georepublic.info/unsubscribe"
 
