@@ -1,5 +1,6 @@
 name: Geothematics
 baseurl: /
+imgurl: /assets/geothematics
 permalink: /news/:year/:month/:title
 relative_permalinks: false
 excerpt_separator: "<!-- more -->"
